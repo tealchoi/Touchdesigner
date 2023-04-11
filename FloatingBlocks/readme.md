@@ -4,10 +4,10 @@ Sketch for generative art.
 
 
 
-[![Video Label](http://img.youtube.com/vi/wIx0k39Hrxw/0.jpg)](https://youtu.be/wIx0k39Hrxw)
+[![Video Label](http://img.youtube.com/vi/wIx0k39Hrxw/0.jpg)](https://youtu.be/wIx0k39Hrxw) <br/>
 https://youtu.be/wIx0k39Hrxw
 
 
 
-[![Video Label](http://img.youtube.com/vi/BmPE_SgK9d8/0.jpg)](https://youtu.be/BmPE_SgK9d8)
+[![Video Label](http://img.youtube.com/vi/BmPE_SgK9d8/0.jpg)](https://youtu.be/BmPE_SgK9d8) <br/>
 https://youtu.be/BmPE_SgK9d8
